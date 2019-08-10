@@ -3,6 +3,7 @@ body {
     font-family: 'Courgette', sans-serif;
     color: #3498db;
     background:#f0f0f0;
+    display: flex;
 }
 
 .page-title{
